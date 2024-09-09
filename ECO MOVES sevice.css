@@ -1,0 +1,175 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-thin-straight/css/uicons-thin-straight.css');
+
+
+.main{ width: 100%;
+    display: flex;
+height: 100%;
+background-size: cover;
+padding: 00px;
+}
+.left{
+    background-color: black;
+    height: 100%;
+    width: 18%;
+    
+
+}
+.right{
+
+    height: 100%;
+    width: 82%;
+    
+}
+
+.left-top{
+    height: 80%;
+    width: 100%;
+    background-color: beige;
+}
+.left-bottem{
+    padding-left: 20px;
+    padding-top: 100px;
+    height: 20%;
+    width: 100%;
+    background-color: beige;
+}
+
+.right-top{
+
+    height: 10%;
+    width: 100%;
+    background-color:bisque;
+
+}
+ 
+
+
+
+.right-bottom{
+    padding-top: 80px;
+    padding-right: 25px;
+    border-radius: 5px;
+display: flex;
+    height: 70%;
+    width: 100%;
+ background-size: cover;
+    background-image: url(https://www.thetrainline.com/cms/media/2865/coach-hub-hero_x1.jpg);
+}
+.right-footer{
+    background-color: bisque;
+    height: 20%;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.right-mid{
+   
+   height: 60%; 
+   width: 65%;
+
+}
+.right-mid1{
+    font-weight: 500;
+    padding-left: 90px;
+    padding-top: 50px;
+    border-radius: 35px;
+height: 60%;
+width: 35%;
+background-color: bisque;
+
+}
+
+.logo{
+    padding-left: 0px;
+    padding-top: 0px;
+display: flex;
+    height: 150px;
+    width: 100%;
+    
+}
+
+.bus{
+    height: 60px;
+    width: 60px;
+}
+
+.items{
+
+ padding-top: 30px;
+}
+.item{
+    
+margin: 37px;
+}
+input{
+    border-radius: 3px;
+    background-color: white;
+    height: 40px;
+    width: 250px;
+    border: none;
+    outline: none;
+    border-radius: 18PX;
+ }
+ 
+
+ .singin{
+    margin-top: 25px;
+    margin-right: 30px;
+ }
+
+ button{
+    border-radius: 18px;
+    width: 100px;
+    height: 30px;
+ }
+
+ button:hover{
+    color: red;
+    transform: scale(1.1);
+}
+.item:hover{
+   transform: scale(1.1);
+   color: red;
+}
+ .left-topp{
+
+    height: 73px;
+    width: 100%;
+    background-color: bisque;
+ }
+ 
+ .em{
+    
+    height: 200px;
+    width: 250px;
+    
+ }
+ .btn-left{
+    margin-top: 25px;
+    margin-left: 150px;
+ }
+ .btn-right{
+    margin-top: 25px;
+    margin-left: 150;
+ }
+i{
+    
+margin: 20px;
+}
+
+td{
+    font-weight: 500;
+}
+table{
+    margin-bottom: 25px;
+}
+
+ 
+
+
+
+ 
